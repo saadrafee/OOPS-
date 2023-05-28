@@ -1,0 +1,4 @@
+karachi,8100,1
+multan,1800,1
+islamabad,2650,1
+ali pur,1900,0

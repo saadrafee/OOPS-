@@ -1,0 +1,40 @@
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.AssemblyReference.cache
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CoreCompileInputs.cache
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\bin\Debug\bussnies application.exe.config
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\bin\Debug\bussnies application.exe
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\bin\Debug\bussnies application.pdb
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\bin\Debug\EZInput.dll
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\bin\Debug\EZInput.xml
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CopyComplete
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\obj\Debug\bussnies application.exe
+D:\CS\semester 2\pf lab\New folder\bussnies application\bussnies application\obj\Debug\bussnies application.pdb
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\bin\Debug\bussnies application.exe.config
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\bin\Debug\bussnies application.exe
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\bin\Debug\bussnies application.pdb
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\bin\Debug\EZInput.dll
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\bin\Debug\EZInput.xml
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.AssemblyReference.cache
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CoreCompileInputs.cache
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CopyComplete
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.exe
+D:\CS\semester 2\PD\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.pdb
+D:\WEEK01\bussnies application\bussnies application\bin\Debug\bussnies application.exe.config
+D:\WEEK01\bussnies application\bussnies application\bin\Debug\bussnies application.exe
+D:\WEEK01\bussnies application\bussnies application\bin\Debug\bussnies application.pdb
+D:\WEEK01\bussnies application\bussnies application\bin\Debug\EZInput.dll
+D:\WEEK01\bussnies application\bussnies application\bin\Debug\EZInput.xml
+D:\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.AssemblyReference.cache
+D:\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CoreCompileInputs.cache
+D:\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CopyComplete
+D:\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.exe
+D:\WEEK01\bussnies application\bussnies application\obj\Debug\bussnies application.pdb
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\bin\Debug\bussnies application.exe.config
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\bin\Debug\bussnies application.exe
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\bin\Debug\bussnies application.pdb
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\bin\Debug\EZInput.dll
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\bin\Debug\EZInput.xml
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.AssemblyReference.cache
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CoreCompileInputs.cache
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\obj\Debug\bussnies application.csproj.CopyComplete
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\obj\Debug\bussnies application.exe
+D:\CS\semester 2\PD\Busness\bussnies application\bussnies application\obj\Debug\bussnies application.pdb

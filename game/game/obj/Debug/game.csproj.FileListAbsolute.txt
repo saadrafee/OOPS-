@@ -1,0 +1,10 @@
+D:\CS\semester 2\PD\game\game\bin\Debug\game.exe.config
+D:\CS\semester 2\PD\game\game\bin\Debug\game.exe
+D:\CS\semester 2\PD\game\game\bin\Debug\game.pdb
+D:\CS\semester 2\PD\game\game\bin\Debug\EZInput.dll
+D:\CS\semester 2\PD\game\game\bin\Debug\EZInput.xml
+D:\CS\semester 2\PD\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\CS\semester 2\PD\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\CS\semester 2\PD\game\game\obj\Debug\game.csproj.CopyComplete
+D:\CS\semester 2\PD\game\game\obj\Debug\game.exe
+D:\CS\semester 2\PD\game\game\obj\Debug\game.pdb
